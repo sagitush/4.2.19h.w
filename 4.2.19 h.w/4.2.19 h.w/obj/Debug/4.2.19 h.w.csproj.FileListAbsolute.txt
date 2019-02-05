@@ -1,0 +1,7 @@
+C:\Users\Liron\source\repos\4.2.19 h.w\4.2.19 h.w\obj\Debug\4.2.19 h.w.csprojAssemblyReference.cache
+C:\Users\Liron\source\repos\4.2.19 h.w\4.2.19 h.w\obj\Debug\4.2.19 h.w.csproj.CoreCompileInputs.cache
+C:\Users\Liron\source\repos\4.2.19 h.w\4.2.19 h.w\bin\Debug\4.2.19 h.w.exe.config
+C:\Users\Liron\source\repos\4.2.19 h.w\4.2.19 h.w\bin\Debug\4.2.19 h.w.exe
+C:\Users\Liron\source\repos\4.2.19 h.w\4.2.19 h.w\bin\Debug\4.2.19 h.w.pdb
+C:\Users\Liron\source\repos\4.2.19 h.w\4.2.19 h.w\obj\Debug\4.2.19 h.w.exe
+C:\Users\Liron\source\repos\4.2.19 h.w\4.2.19 h.w\obj\Debug\4.2.19 h.w.pdb
